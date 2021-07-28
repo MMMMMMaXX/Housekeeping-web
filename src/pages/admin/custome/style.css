@@ -1,0 +1,7 @@
+.el-table .warning-row {
+    background:rgb(252, 248, 248);
+}
+
+.el-table .success-row {
+    background: white;
+}
